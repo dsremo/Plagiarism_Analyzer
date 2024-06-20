@@ -13,13 +13,6 @@ The basic model utilizes TF-IDF (Term Frequency-Inverse Document Frequency) and 
 - Computes cosine similarity between documents
 - Outputs similarity scores for each document pair
 
-### Usage
-
-1. Place your `.txt` files in the project directory.
-2. Run the script to check for plagiarism:
-    ```bash
-    python basic_model.py
-    ```
 
 ## Advanced Model
 
@@ -33,25 +26,6 @@ The advanced model offers more sophisticated text processing and analysis featur
 - Bag of Words model creation
 - Naive Bayes classifier for text classification
 
-### Usage
-
-1. Ensure your data file (`train_snli.txt`) is in the project directory.
-2. Run the script for advanced text analysis:
-    ```bash
-    python advanced_model.py
-    ```
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/plagiarism-analyzer.git
-    cd plagiarism-analyzer
-    ```
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## License
 
