@@ -27,7 +27,7 @@ The advanced model offers more sophisticated text processing and analysis featur
 - Naive Bayes classifier for text classification
 
 
-## LSTM Model
+## LSTM ( Long Short Term Memory) Model
 
 The LSTM model leverages deep learning for more accurate plagiarism detection.
 
