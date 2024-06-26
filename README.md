@@ -27,6 +27,18 @@ The advanced model offers more sophisticated text processing and analysis featur
 - Naive Bayes classifier for text classification
 
 
+## LSTM Model
+
+The LSTM model leverages deep learning for more accurate plagiarism detection.
+
+### Features
+- Uses a pre-trained LSTM model
+- Quantizes the model for efficient storage and computation
+- Processes text data for model prediction
+- Predicts plagiarism with a similarity score
+
+
+
 ## License
 
 This project is licensed under the MIT License.
